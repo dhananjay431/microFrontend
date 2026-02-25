@@ -3,6 +3,11 @@
 #cd mono
 
 #ng g application host-app
+#ng g application mfe-app
+
+cd ..
+
+npm install --save-dev webpack webpack-cli
 
 ### auto
 
